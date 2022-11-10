@@ -15,7 +15,7 @@
     "utax": "^0.0.26"
   },
   "dependencies": {
-    "@u6x/jsext": "^0.0.26",
+    "@u6x/jsext": "^0.0.27",
     "coffee_plus": "^0.0.43",
     "coffeescript": "^2.7.0"
   }

@@ -31,7 +31,7 @@ export resolve = (specifier, context, defaultResolve) =>
               if existsSync fp
                 specifier = fp
                 break $
-        return defaultResolve(jsext(specifier,context), context, defaultResolve)
+        return jsext(specifier,context,defaultResolve)
 
   {
     shortCircuit: true,
