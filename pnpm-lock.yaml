@@ -1,18 +1,18 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@u6x/jsext': ^0.0.15
-  coffee_plus: ^0.0.42
+  '@u6x/jsext': ^0.0.27
+  coffee_plus: ^0.0.43
   coffeescript: ^2.7.0
-  utax: ^0.0.9
+  utax: ^0.0.26
 
 dependencies:
-  '@u6x/jsext': 0.0.15
-  coffee_plus: 0.0.42
+  '@u6x/jsext': 0.0.27
+  coffee_plus: 0.0.43
   coffeescript: 2.7.0
 
 devDependencies:
-  utax: 0.0.9
+  utax: 0.0.26
 
 packages:
 
@@ -28,8 +28,8 @@ packages:
     resolution: {integrity: sha512-OvkcTyygSHAxy27453FpnUXV3x/4Ey+mkl1vNEn5E4n37hhKcn3Cwr8jLqZYcF/oUU/aE+hQc3jPQ4UcgzQH1w==}
     dev: false
 
-  /@u6x/jsext/0.0.15:
-    resolution: {integrity: sha512-MG/U8lwfywn2XIVb5jbC7zjWhtJqcu+024V+sf2I2I8cuYOzqKgLUQKHqhKl7HaPM+snZTAUh523bRFrF0qBPQ==}
+  /@u6x/jsext/0.0.27:
+    resolution: {integrity: sha512-JWYU9TgVNp6Te8kP40LezAL6/kOVHsUtwaWj036hw1mLa5T80F8Ntrnnc8yG+2gEAq2VoY2lBLsj/7vMFJgXLw==}
     dev: false
 
   /ansi-regex/5.0.1:
@@ -53,14 +53,13 @@ packages:
       wrap-ansi: 7.0.0
     dev: false
 
-  /coffee_plus/0.0.42:
-    resolution: {integrity: sha512-3mmqK0kzrz4I6+p4d9g+WbXyEpSvf60cc2rvemsRxlYehsI+UAzZcmSJ/4U6q+WIb+B5nnDY0iJxCeG0UytEbA==}
+  /coffee_plus/0.0.43:
+    resolution: {integrity: sha512-E679KLtIffbhh8b7D/EVYbrPWhnyvScRsS7PrDRDfSFBl/6jr/vLGmklPlGe3s72h/wK/3BCqe7x1WiJbFaUaw==}
     hasBin: true
     dependencies:
       '@iuser/camel': 0.0.20
       '@iuser/walk': 0.0.2
       '@iuser/write': 0.0.7
-      coffeescript: 2.7.0
       lodash-es: 4.17.21
       yargs: 17.6.0
     dev: false
@@ -126,8 +125,8 @@ packages:
       ansi-regex: 5.0.1
     dev: false
 
-  /utax/0.0.9:
-    resolution: {integrity: sha512-Vx4cIB1xYySo51QB7FOCFGzjjMU1bosHFUw9K2pF5iqpvbppj6aMlrip6oChG4l5dBFMfs8uXU4qQ1SzShXnfA==}
+  /utax/0.0.26:
+    resolution: {integrity: sha512-DpU/J9ZTAK5pTAEYao2i02tlGna48NtCZfMLQRuYHFy20p2CRI1tstxj1Aauht54taXn38NiVptSjc9rv4/o8A==}
     dev: true
 
   /wrap-ansi/7.0.0:
